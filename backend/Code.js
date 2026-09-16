@@ -1,5 +1,5 @@
 // =====================================================================
-// 2. BACKEND ENVIRONMENT CONFIGURATION
+// 2. BACKEND ENVIRONMENT CONFIGURATION 
 // (Environment settings are now managed in config.js)
 // =====================================================================
 
