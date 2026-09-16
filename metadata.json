@@ -1,0 +1,8 @@
+{
+  "name": "House Visit Form",
+  "description": "Trainee house visit form application for volunteers to record and manage trainee visits and observations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
